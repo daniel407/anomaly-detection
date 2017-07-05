@@ -1,0 +1,16 @@
+{"event_type":"purchase", "timestamp":"2017-06-13 11:33:02", "id": "2", "amount": "1601.83"}
+{"event_type":"purchase", "timestamp":"2017-06-13 11:33:02", "id": "3", "amount": "100"}
+{"event_type":"befriend", "timestamp":"2017-06-13 11:33:02", "id1": "3", "id2": "4"}
+{"event_type":"purchase", "timestamp":"2017-06-13 11:33:02", "id": "3", "amount": "110"}
+{"event_type":"purchase", "timestamp":"2017-06-13 11:33:02", "id": "4", "amount": "150"}
+{"event_type":"befriend", "timestamp":"2017-06-13 11:33:03", "id1": "10", "id2": "11"}
+{"event_type":"befriend", "timestamp":"2017-06-13 11:33:03", "id1": "12", "id2": "11"}
+{"event_type":"befriend", "timestamp":"2017-06-13 11:33:03", "id1": "12", "id2": "13"}
+{"event_type":"befriend", "timestamp":"2017-06-13 11:33:03", "id1": "14", "id2": "13"}
+{"event_type":"befriend", "timestamp":"2017-06-13 11:33:03", "id1": "14", "id2": "15"}
+{"event_type":"purchase", "timestamp":"2017-06-13 11:33:03", "id": "10", "amount": "100"}
+{"event_type":"purchase", "timestamp":"2017-06-13 11:33:03", "id": "11", "amount": "105"}
+{"event_type":"purchase", "timestamp":"2017-06-13 11:33:03", "id": "14", "amount": "200"}
+{"event_type":"purchase", "timestamp":"2017-06-13 11:33:03", "id": "15", "amount": "500"}
+{"event_type":"befriend", "timestamp":"2017-06-13 11:33:03", "id1": "10", "id2": "15"}
+{"event_type":"purchase", "timestamp":"2017-06-13 11:33:03", "id": "14", "amount": "10000"}
